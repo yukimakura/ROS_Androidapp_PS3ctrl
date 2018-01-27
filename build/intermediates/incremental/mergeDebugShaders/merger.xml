@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/yukimakura/android_core/src/android_core/android_benchmarks/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/home/yukimakura/android_core/src/android_core/android_benchmarks/src/debug/shaders"/></dataSet></merger>
